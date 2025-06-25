@@ -18,7 +18,6 @@ public class Test
 	   Test t = new Test();
 	   int i1=t.createRandom();
 	   System.out.println(i1);
-	   System.out.println("This is End");
 	   
 }
 }
