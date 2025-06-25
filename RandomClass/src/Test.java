@@ -14,6 +14,7 @@ public class Test
 	}
    public static void main(String[] args) 
    {
+	   System.out.println("This is main method");
 	   Test t = new Test();
 	   int i1=t.createRandom();
 	   System.out.println(i1);
